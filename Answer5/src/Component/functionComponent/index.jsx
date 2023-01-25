@@ -1,7 +1,7 @@
 function HelloFunction() {
   return (
     <div>
-      <p>Hello React</p>
+      <p>React Hello</p>
     </div>
   );
 }
