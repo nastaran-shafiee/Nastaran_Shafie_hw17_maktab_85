@@ -1,0 +1,8 @@
+.App {
+  width: 200px;
+  margin: 0 auto;
+  font-size: 2rem;
+  font-weight: bold;
+  border: 0.1875rem solid gray;
+  padding: 2rem;
+}
